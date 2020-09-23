@@ -29,12 +29,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# The current year is: 2020
-# Wed, 23 September, 20
-# Locale date and time: Wed Sep 23 18:13:39 2020
-# Locale date: 09/23/20
-# Locale time: 18:13:39
-# Current time: 06:13:39 PM
-# 24-hour time: 18:13
